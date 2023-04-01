@@ -1,10 +1,10 @@
-# 👋 Bem-vindo à Room Studies!
+# 👋 Wassup dev 😉 Bem-vindo à Room Studies!
 
 <p> 
  📄 A <b> Room Studies</b> é uma organização criada no Github, para armazenar os códigos das aplicações, websites e desafios dos cursos da <b>Room</b>. A Room oferece cursos de programação web com foco em tecnologias como <b> <em> HTML, CSS, JavaScript, React e Node </em>.</b>
 </p>
 <p> 
-   Nosso objetivo é formar alunos capacitados a desenvolver websites e aplicações web completas, criando um ecossistema para que eles possam aprender, compartilhar, crescer, evoluir e desenvolver suas habilidades em programação.
+  Nosso objetivo é formar alunos capacitados a desenvolver websites e aplicações web completas, criando um ecossistema para que eles possam aprender, compartilhar, crescer, evoluir e desenvolver suas habilidades em programação.
 </p>
 
 ## 💻 Nossos projetos
