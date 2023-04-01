@@ -34,6 +34,6 @@
   Cada um dos nossos instrutores traz uma perspectiva única e valiosa para nossas aulas. Se você estiver interessado em saber mais sobre nossos instrutores, fique à vontade para visitar seus perfis no Github.
 <p>
 
-## ☎️ Contato
+## ☎️ Contacto
 
-Se você tiver alguma dúvida sobre nossos projetos ou estiver interessado em nossos cursos de programação web, você pode entrar em contato connosco enviando um email para roomsocials@gmail.com
+Se você tiver alguma dúvida sobre nossos projetos ou estiver interessado em nossos cursos de programação web, você pode entrar em contacto connosco enviando um email para roomsocials@gmail.com
